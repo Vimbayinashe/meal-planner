@@ -10,4 +10,4 @@ A user can:
 
 Features to be added
 - a user will be able to search for a recipe by ingredient, category or cooking difficulty
-- recipe suggestion can also generate a shopping list
+- recipe suggestion can also generate a shopping list.
